@@ -23,3 +23,6 @@ git diff
 
 git diff HEAD
 ステージと最新コミットの差分をみることができる
+
+.gitignore
+gitの管理から外すことができる
