@@ -10,3 +10,16 @@ git commit ローカルリポジトリに変更を保存
 
 git push リモートリポジトリにアップする！
 
+削除したファイルをcommitする
+git rm filename
+
+git log
+gitの変更履歴をみることができる
+git log --oneline
+gitの変更履歴を一行でみることができる
+
+git diff
+ステージとの差分をみることができる
+
+git diff HEAD
+ステージと最新コミットの差分をみることができる
